@@ -1,0 +1,17 @@
+{
+    "name": "aono/graphql-php-sample",
+    "autoload": {
+        "psr-4": {
+            "Aono\\GraphqlPhpSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "awonosuke",
+            "email": "blueno091117@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.7"
+    }
+}
